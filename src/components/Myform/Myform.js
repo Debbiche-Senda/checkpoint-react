@@ -1,6 +1,6 @@
 import { Form } from "react-bootstrap";
 import { Card } from "react-bootstrap";
-import { Button } from "react-bootstrap";
+import { Button} from "react-bootstrap";
 import "./Myform.css";
 
 const Myform = () => {
